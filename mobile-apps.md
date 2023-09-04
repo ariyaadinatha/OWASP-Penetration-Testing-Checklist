@@ -1,4 +1,4 @@
-# OWASP Web Application Security Testing Checklist
+# OWASP Mobile Application Security Testing Checklist
 
 ## Table of Contents
 
@@ -6,13 +6,6 @@
 * [Dynamic and Runtime Analysis](#Dynamic)
 * [Secure Transmission](#Transmission)
 * [Server Side - Webservices and API](#Server)
-* [Architecture & Design](#Architecture)
-* [Authentication & Authorization](#Auth)
-* [Data Storage & Privacy](#Storage)
-* [User Interface](#UI)
-* [Application Integrity](#Integrity)
-* [Post-Deployment](#Post)
-* [Platform-Specific Guidance](#Platform)
 
 -------
 ### <a name="Static">Static Analysis</a>
